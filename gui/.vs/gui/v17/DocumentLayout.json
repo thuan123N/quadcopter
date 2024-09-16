@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luong\\Downloads\\gui\\gui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC73D1-CD89-454E-9084-FC37B09A471A}|gui\\gui.csproj|c:\\users\\luong\\downloads\\gui\\gui\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6CC73D1-CD89-454E-9084-FC37B09A471A}|gui\\gui.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC73D1-CD89-454E-9084-FC37B09A471A}|gui\\gui.csproj|c:\\users\\luong\\downloads\\gui\\gui\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC73D1-CD89-454E-9084-FC37B09A471A}|gui\\gui.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CC73D1-CD89-454E-9084-FC37B09A471A}|gui\\gui.csproj|c:\\users\\luong\\downloads\\gui\\gui\\gui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6CC73D1-CD89-454E-9084-FC37B09A471A}|gui\\gui.csproj|solutionrelative:gui\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\gui\\gui\\gui\\Form1.cs",
+              "RelativeDocumentMoniker": "gui\\Form1.cs",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\gui\\gui\\gui\\Form1.cs [Design]*",
+              "RelativeToolTip": "gui\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:55:45.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\gui\\gui\\gui\\Program.cs",
+              "RelativeDocumentMoniker": "gui\\Program.cs",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\gui\\gui\\gui\\Program.cs",
+              "RelativeToolTip": "gui\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:55:36.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\luong\\Downloads\\gui\\gui\\gui\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "gui\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\luong\\Downloads\\gui\\gui\\gui\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "gui\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T00:55:25.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
